@@ -15,12 +15,18 @@ Bark is a simple website dedicated to giving random interesting facts about dogs
 # 🚀 Contribute
 1. Clone the repository
 
-`git clone https://github.com/shnflrsc/bark.git && cd bark`
+```bash
+git clone https://github.com/shnflrsc/bark.git && cd bark
+```
 
 2. Install dependencies
 
-`bun install`
+```bash
+bun install
+```
 
 3. Run development server
 
-`bun dev`
+```bash
+bun dev
+```
